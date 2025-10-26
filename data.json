@@ -1,0 +1,26 @@
+{
+  "test": "data"
+}
+```
+
+4. 맨 아래 **"Commit new file"** 클릭
+
+✅ **파일 생성 완료!**
+
+---
+
+## 🎯 **STEP 5: GitHub Pages 활성화**
+
+### 5-1. Settings 접속
+1. 저장소 페이지에서 **"Settings"** 클릭 (상단 메뉴)
+
+### 5-2. Pages 설정
+1. 좌측 메뉴에서 **"Pages"** 클릭
+2. **Source** 섹션:
+   - Branch: **"main"** 선택
+   - Folder: **"/ (root)"** 선택
+3. **"Save"** 클릭
+
+### 5-3. 웹사이트 URL 확인
+```
+Your site is live at https://yourusername.github.io/saigon-golf-data/
